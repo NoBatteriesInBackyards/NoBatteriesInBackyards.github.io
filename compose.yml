@@ -3,7 +3,9 @@ name: no-batteries-in-backyards
 services:
   jekyll:
     build: .
-    command: jekyll build
+    command: bundle exec jekyll build
     ports:
       - 127.0.0.1:3000:4000
     platform: linux/amd64
+    environment:
+      - PAGES_REPO_NWO=radiantBear/NoBatteriesInBackyards

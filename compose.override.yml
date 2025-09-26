@@ -2,7 +2,7 @@ services:
   jekyll:
     # May want to include `--drafts` to include _drafts/ folder
     # May want to include `--force_polling` if watch is flaky
-    command: jekyll serve --watch --host 0.0.0.0
+    command: bundle exec jekyll serve --watch --host 0.0.0.0
     ports:
       - 127.0.0.1:3000:4000
     develop:
