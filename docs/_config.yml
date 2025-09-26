@@ -28,7 +28,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 minima:
+  date_format: "%A, %B %-d, %Y"
   skin: auto
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
