@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are parents, neighbors, and community members who believe that **our homes should never be treated as sacrifice zones for industrial experiments.**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The energy industry is rapidly deploying large-scale Battery Energy Storage System (BESS) facilities. While energy storage plays an important role in renewable energy, these facilities are being sited recklessly in residential neighborhoods, often with little public input and inadequate safety safeguards.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Our Mission
 
+- **Protect our communities** from fire, chemical, and explosion risks  
+- **Demand transparency** from developers and government officials  
+- **Organize neighbors** to resist unsafe projects and propose better alternatives  
 
-[jekyll-organization]: https://github.com/jekyll
+We are not opposed to clean energy. In fact, we support it. But **safe siting matters**. Placing hazardous facilities near homes, schools, and parks is unacceptable.
+
+## What We Do
+
+- Research and share information about the risks of BESS facilities  
+- Track proposals and alert the community about upcoming hearings  
+- Support neighbors in speaking out and organizing locally  
+- Connect with other towns and movements facing the same fight  
+
+**We believe in people power.** When communities come together, we can stop reckless projects and demand a healthier, safer energy future.
