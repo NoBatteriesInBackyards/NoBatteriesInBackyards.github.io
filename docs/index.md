@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![No Batteries in Backyards](./img/horizontal_graphic.png)
+
 **Protect our homes. Protect our families. Protect our future.**
 
 Battery Energy Storage System (BESS) facilities are being pushed into residential neighborhoods across the country — often without transparency, without safety assurances, and without regard for the people who live nearby.  
