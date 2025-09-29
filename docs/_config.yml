@@ -20,13 +20,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   stop dangerous Battery Energy Storage System facilities in residential areas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nobatteriesinbackyards.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: groups/stopthebatterystorage
 
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
-  - jekyll-remote-theme
 minima:
   date_format: "%A, %B %-d, %Y"
   skin: auto
