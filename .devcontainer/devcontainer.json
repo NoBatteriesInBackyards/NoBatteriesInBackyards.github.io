@@ -4,7 +4,7 @@
     "dockerfile": "Dockerfile",
     "context": ".."
   },
-  "workspaceFolder": "/srv/jekyll",
+  "workspaceFolder": "/srv",
   "forwardPorts": [3000],
   "portsAttributes": {
     "3000": {
@@ -12,7 +12,8 @@
       "onAutoForward": "openBrowser"
     }
   },
-  "postAttachCommand": "bundle exec jekyll serve --watch --host 0.0.0.0 --port 3000",
+  "postCreateCommand": "cd /srv/docs && bundle install",
+  "postAttachCommand": "cd /srv/docs && bundle exec jekyll serve --watch --host 0.0.0.0 --port 3000",
   "customizations": {
     "vscode": {
       "settings": {
