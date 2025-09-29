@@ -13,9 +13,7 @@
       "onAutoForward": "openBrowser"
     }
   },
-  "postAttachCommand": {
-    "server": "bundle exec jekyll serve --watch --host 0.0.0.0 --port 3000"
-  },
+  "postAttachCommand": "bundle exec jekyll serve --watch --host 0.0.0.0 --port 3000",
   "customizations": {
     "vscode": {
       "settings": {
