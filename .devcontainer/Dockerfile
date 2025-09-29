@@ -6,3 +6,5 @@ WORKDIR /srv/jekyll
 
 COPY docs/Gemfile /srv/jekyll/Gemfile
 RUN bundle install
+
+COPY docs /srv/jekyll/
