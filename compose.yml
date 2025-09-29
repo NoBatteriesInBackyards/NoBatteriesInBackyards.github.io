@@ -8,4 +8,4 @@ services:
       - 127.0.0.1:3000:4000
     platform: linux/amd64
     environment:
-      - PAGES_REPO_NWO=radiantBear/NoBatteriesInBackyards
+      - PAGES_REPO_NWO=NoBatteriesInBackyards/NoBatteriesInBackyards.github.io

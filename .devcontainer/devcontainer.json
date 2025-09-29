@@ -1,0 +1,28 @@
+{
+  "name": "no-batteries-in-backyards",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "workspaceFolder": "/srv/jekyll",
+  "runArgs": ["--platform=linux/amd64"],
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Jekyll site",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postAttachCommand": {
+    "server": "bundle exec jekyll serve --watch --host 0.0.0.0 --port 3000"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.watcherExclude": {
+          "**/.git/objects/**": true
+        }
+      }
+    }
+  }
+}
