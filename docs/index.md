@@ -7,6 +7,10 @@ layout: home
 
 ![No Batteries in Backyards](./img/horizontal_graphic.png)
 
+## What is a BESS?
+
+A Battery Energy Storage System (BESS) is a battery array that stores energy from the electrial grid during off-peak hours and then returns the stored energy to the grid during peak usage times to help the electrical utility keep up with demand.
+
 **Protect our homes. Protect our families. Protect our future.**
 
 Battery Energy Storage System (BESS) facilities are being pushed into residential neighborhoods across the country — often without transparency, without safety assurances, and without regard for the people who live nearby.  
@@ -15,7 +19,7 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighbors to
 
 ---
 
-## Why This Matters
+## Why should I care?
 
 - **Explosion and fire risks** from lithium-ion batteries threaten homes and lives.  
 - **Toxic chemicals** released in failures can poison air, water, and soil.  
@@ -25,7 +29,7 @@ We refuse to accept unsafe energy storage in our neighborhoods. Clean energy mus
 
 ---
 
-## Take Action
+## What can I do about it?
 
 - Stay informed: [Read our updates](/updates)  
 - Show up: Attend upcoming town hall and planning board meetings  
