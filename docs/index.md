@@ -5,17 +5,17 @@
 layout: home
 ---
 
-![No Batteries in Backyards](./img/horizontal_graphic.png)
+![No Batteries in Backyards](./img/BESS_horizontal_graphic.png)
 
 ## What is a BESS?
 
-A Battery Energy Storage System (BESS) is a battery array that stores energy from the electrial grid during off-peak hours and then returns the stored energy to the grid during peak usage times to help the electrical utility keep up with demand.
+A Battery Energy Storage System (BESS) is a battery array that stores energy from the electrial grid during off-peak hours, then returns the stored energy to the grid during peak usage times to help the electrical utility keep up with demand.
+
+BESS facilities are typically situated in industrial zoned locations, but in Washington County, Oregon a BESS is being pushed into a residential/agriculture/farming neighborhood in NE Hillsboro — without safety assurances and without regard for the people who live there.
 
 **Protect our homes. Protect our families. Protect our future.**
 
-Battery Energy Storage System (BESS) facilities are being pushed into residential neighborhoods across the country — often without transparency, without safety assurances, and without regard for the people who live nearby.  
-
-We are **No Batteries in Backyards**, a grassroots movement uniting neighbors to stand up against these hazardous projects. Together, we are demanding safe, responsible energy solutions that don’t put our communities at risk.
+We are **No Batteries in Backyards**, a grassroots movement uniting neighborhoods surrounding the proposed BESS location to stand up against this hazardous project. Together, we are demanding safe, responsible energy solutions that don’t put our community at risk.
 
 ---
 
