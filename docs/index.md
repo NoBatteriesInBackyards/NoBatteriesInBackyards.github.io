@@ -2,20 +2,22 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
-![No Batteries in Backyards](./img/BESS_horizontal_graphic.png)
+<img class="img-left" src="./img/BESS_horizontal_graphic.png" alt="o Batteries in Backyards"/>
 
 ## What is a BESS?
 
 A Battery Energy Storage System (BESS) is a battery array that stores energy from the electrial grid during off-peak hours, then returns the stored energy to the grid during peak usage times to help the electrical utility keep up with demand.
 
-BESS facilities are typically situated in industrial zoned locations, but in Washington County, Oregon a BESS is being pushed into a residential/agriculture/farming neighborhood in NE Hillsboro — without safety assurances and without regard for the people who live there.
+BESS facilities are typically situated in industrial zoned locations, but in Washington County, Oregon a BESS is being pushed into a residential/agriculture/farming neighborhood in NE Hillsboro — near Liberty HS and West Union Elemetary — without safety assurances and without regard for the people who live there.
 
 **Protect our homes. Protect our families. Protect our future.**
 
 We are **No Batteries in Backyards**, a grassroots movement uniting neighborhoods surrounding the proposed BESS location to stand up against this hazardous project. Together, we are demanding safe, responsible energy solutions that don’t put our community at risk.
+
+![Battery Energy Storage System](img/Hillsboro-Oregon-Battery-Storage.webp)
 
 ---
 
@@ -23,20 +25,35 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighborhood
 
 - **Explosion and fire risks** from lithium-ion batteries threaten homes and lives.  
 - **Toxic chemicals** released in failures can poison air, water, and soil.  
-- **Lack of oversight** means residents are left in the dark about real dangers.  
+- **Lack of community involvement** means residents are left in the dark about real dangers.  
 
 We refuse to accept unsafe energy storage in our neighborhoods. Clean energy must also be **safe energy**.
+
+![Conceptual view of proposed BESS from West Union Road](img/Blackberry BESS View 2_3d.jpg)
+![Conceptual view of proposed BESS as part of Bendemeer neighborhood](img/Blackberry BESS View 4_3d.jpg)
 
 ---
 
 ## What can I do about it?
 
-- Stay informed: [Read our updates](/updates)  
-- Show up: Attend upcoming town hall and planning board meetings  
-- Connect: [Join the movement](/contact)  
+- Stay informed: [Read our updates](/updates)
+- Contact: Write to elected officials to register complaints
+- Show up: Attend the public hearing on 10/30/2025  
+- Connect: [Join the movement](/contact)
 
-Together, we can stop hazardous BESS siting in our backyards — and build safer alternatives for a sustainable future.
+Together, we can stop hazardous BESS sites from being located in our backyards — and build safer alternatives for a sustainable future.
 
 ---
 
-## Recent Updates
+## Important Dates
+
+- **10/30/2025** -- Type III public hearing at Washington County Land Use and Development
+
+---
+
+## Important Links
+- [Jupiter Energy BESS Battery Facility In Hillsboro Threatens Neighborhood Safety And Property Values - Hillsboro Herald](https://hillsboroherald.com/jupiter-energy-bess-battery-facility-in-hillsboro-threatens-neighborhood-safety-and-property-values-2/)
+- [Jupiter Battery Storage Proposal That Threatens Residents Moved To Public Hearing Under Public Pressure - Hillsboro Herald](https://hillsboroherald.com/jupiter-battery-storage-proposal-that-threatens-residents-moved-to-public-hearing-under-public-pressure/)
+- [Neighbors Confront County Over Mishandled Notice in Jupiter Battery Case - Hillsboro Herald](https://hillsboroherald.com/neighbors-confront-county-over-mishandled-notice-in-jupiter-battery-case/)
+- [Energy Giant Proposes 10-Acre Battery Facility in Rural Hillsboro Next To Homes - Hillsboro Herald](https://hillsboroherald.com/energy-giant-proposes-10-acre-battery-facility-in-rural-hillsboro-next-to-homes/)
+
