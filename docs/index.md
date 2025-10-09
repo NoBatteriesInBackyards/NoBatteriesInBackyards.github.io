@@ -5,15 +5,23 @@
 layout: default
 ---
 
-<img class="img-left" src="./img/BESS_horizontal_graphic.png" alt="o Batteries in Backyards"/>
+<img class="img-left" src="./img/Hillsboro-Oregon-Battery-Storage.webp" alt="No Batteries in Backyards"/>
+
+# Jupiter Power wants to build a 10-acre Battery Energy Storage System in our back yards, and we need your help!
+
+Jupiter Power and PGE are asking Washington County to approve construction of a large Battery Energy Storage System like the one pictured here in our NE Hillsboro neighborhood.  If approved, this development would bring light polution, constant noise, and increased risk of fire into our peaceful residential area.  If this is allowed, where will the next one be built?
+
+## Please stand with us and tell Washington County this doesn't belong in anyone's back yard!
+
+---
+
+<img class="img-left" src="./img/BESS_horizontal_graphic.png" alt="No Batteries in Backyards"/>
 
 ## What is a BESS?
 
-A Battery Energy Storage System (BESS) is a battery array that stores energy from the electrial grid during off-peak hours, then returns the stored energy to the grid during peak usage times to help the electrical utility keep up with demand.
+A Battery Energy Storage System (BESS) is a battery array that stores energy from the electrial grid during off-peak hours, then returns the stored energy to the grid during peak usage times.
 
-BESS facilities are typically situated in industrial zoned locations, but in Washington County, Oregon a BESS is being pushed into a residential/agriculture/farming neighborhood in NE Hillsboro — near Liberty HS and West Union Elemetary — without safety assurances and without regard for the people who live there.
-
-**Protect our homes. Protect our families. Protect our future.**
+BESS facilities are typically situated in industrial zoned locations, but in Washington County, Oregon a BESS is being pushed into a residential/agriculture/farming neighborhood in NE Hillsboro — about 1/2 mile from Liberty HS and 1 mile from Lenox Elementary and West Union Elementary — without regard for the community.
 
 We are **No Batteries in Backyards**, a grassroots movement uniting neighborhoods surrounding the proposed BESS location to stand up against this hazardous project. Together, we are demanding safe, responsible energy solutions that don’t put our community at risk.
 
@@ -30,6 +38,7 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighborhood
 We refuse to accept unsafe energy storage in our neighborhoods. Clean energy must also be **safe energy**.
 
 ![Conceptual view of proposed BESS from West Union Road](img/Blackberry BESS View 2_3d.jpg)
+
 ![Conceptual view of proposed BESS as part of Bendemeer neighborhood](img/Blackberry BESS View 4_3d.jpg)
 
 ---
@@ -57,3 +66,4 @@ Together, we can stop hazardous BESS sites from being located in our backyards �
 - [Neighbors Confront County Over Mishandled Notice in Jupiter Battery Case - Hillsboro Herald](https://hillsboroherald.com/neighbors-confront-county-over-mishandled-notice-in-jupiter-battery-case/)
 - [Energy Giant Proposes 10-Acre Battery Facility in Rural Hillsboro Next To Homes - Hillsboro Herald](https://hillsboroherald.com/energy-giant-proposes-10-acre-battery-facility-in-rural-hillsboro-next-to-homes/)
 
+---

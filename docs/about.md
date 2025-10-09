@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are parents, neighbors, and community members who believe that **our homes should never be treated as sacrifice zones for industrial experiments.**
+We are parents, neighbors, and community members who believe that **our homes and neighborhoold should never be sacrificed in the name of industrial experiments.**
 
 The energy industry is rapidly deploying large-scale Battery Energy Storage System (BESS) facilities. While energy storage plays an important role in renewable energy, these facilities are being sited recklessly in residential neighborhoods, often with little public input and inadequate safety safeguards.
 
