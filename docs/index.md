@@ -2,6 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# Send emails (Note: site.data.**email** should be replaced with the name of the YAML file in the ./_data directory):
+# <a
+#    href="mailto:{{ site.data.email.recipient | uri_escape }}?subject={{ site.data.email.subject | uri_escape }}&body={{ site.data.email.body | uri_escape }}"
+#    class="email-btn">
+# Email Sen. John Doe
+# </a>
+
 layout: default
 ---
 

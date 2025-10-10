@@ -1,0 +1,8 @@
+recipient: john.doe@example.com
+subject: No Batteries In Backyards
+body: |
+  Hello,
+
+  Here's a demo email
+
+  Sincerely,
