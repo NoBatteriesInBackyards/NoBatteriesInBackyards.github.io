@@ -39,25 +39,28 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighborhood
 ## Why should I care?
 
 - **Explosion and fire risks** from lithium-ion batteries threaten homes and lives.  
-- **Toxic chemicals** released in failures can poison air, water, and soil.  
+- **Toxic chemicals** released when lithium-ion batteries fail can poison air, water, and soil.  
 - **Lack of community involvement** means residents are left in the dark about real dangers.  
-
-We refuse to accept unsafe energy storage in our neighborhoods. Clean energy must also be **safe energy**.
+- **The residential location selected** for this BESS project amplifies the community safety concerns.
 
 ![Conceptual view of proposed BESS from West Union Road](img/Blackberry BESS View 2_3d.jpg)
 
 ![Conceptual view of proposed BESS as part of Bendemeer neighborhood](img/Blackberry BESS View 4_3d.jpg)
 
+We refuse to accept unsafe energy storage in our neighborhoods. Clean energy must also be **safe energy**.
+
 ---
 
 ## What can I do about it?
 
-- Stay informed: [Read our updates](/updates)
-- Contact: Write to elected officials to register complaints
-- Show up: Attend the public hearing on 10/30/2025  
-- Connect: [Join the movement](/contact)
+- <b>Stay informed:</b> [Read our news updates](/news)
+- <b>Show up:</b> Attend the public hearing on 10/30/2025  
+- <b>Connect:</b> [Email us to learn how to join the movement](/contact)
+- <b>Raise concerns:</b> Write to local leaders and elected officials to register complaints by clicking the buttons below
 
 ### Washington County Planners and Officials
+
+Click a button below to send an email message to let our local land use and development planners know that we are concerned about the negative impacts of building a BESS facility in our residential communities.  Click the button, read the message to make sure you agree with what it says, then sign your name at the bottom and click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
 
 <a
    href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
@@ -84,6 +87,8 @@ Email Tanya Ange – Washington County Administrator
 </a>
 
 ### Washington County Commissioners
+
+Click a button below to send an email message to let our local leaders and elected officials know that we have serious safety and livability concerns related to building a BESS facility in our residential communities, and that the voice of the people needs to be heard before approving the project.  Click the button, read the message to make sure you agree with what it says, then sign your name at the bottom and click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
 
 <a
    href="mailto:{{ site.data.email_kathryn_harrington.recipient | uri_escape }}?subject={{ site.data.email_kathryn_harrington.subject | uri_escape }}&body={{ site.data.email_kathryn_harrington.body | uri_escape }}"
@@ -115,8 +120,6 @@ Email Jason Snider, Washington County Commissioner District 3
 Email Jerry Willey, Washington County Commissioner District 4
 </a>
 
-Together, we can stop hazardous BESS sites from being located in our backyards — and build safer alternatives for a sustainable future.
-
 ### State Representatives
 
 <a
@@ -146,8 +149,8 @@ Email Senator Lisa Reynolds
 ---
 
 ## Important Links
-- [Local news stories about the proposed Hillsboro BESS project](news)
-- [Q&A - Answers to common questions](qanda)
 - [Link to Washington County casefile for the proposed BESS project](https://www.washingtoncountyor.gov/current-planning/frequently-discussed-development-applications#L2500161)
+- [Local news stories about the proposed Hillsboro BESS project](news)
+- [FAQ - Answers to common questions](faq)
 
 ---
