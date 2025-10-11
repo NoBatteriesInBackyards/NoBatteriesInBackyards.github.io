@@ -10,9 +10,8 @@
 # </a>
 
 layout: default
+title: Home
 ---
-
-<img class="img-left" src="./img/Hillsboro-Oregon-Battery-Storage.webp" alt="No Batteries in Backyards"/>
 
 # Jupiter Power wants to build a 10-acre Battery Energy Storage System in our back yards! We need your help!
 
