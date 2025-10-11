@@ -116,30 +116,50 @@ Click a button below to send an email stating your concerns.  Click the button, 
    href="mailto:{{ site.data.email_kathryn_harrington.recipient | uri_escape }}?subject={{ site.data.email_kathryn_harrington.subject | uri_escape }}&body={{ site.data.email_kathryn_harrington.body | uri_escape }}"
    class="email-btn">
 Email Kathryn Harrington, Washington County Commissioner At Large
+</a> <a
+   href="./pdf/mail_kathryn_harrington.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_nafisa_fai.recipient | uri_escape }}?subject={{ site.data.email_nafisa_fai.subject | uri_escape }}&body={{ site.data.email_nafisa_fai.body | uri_escape }}"
    class="email-btn">
 Email Nafisa Fai, Washington County Commissioner District 1
+</a> <a
+   href="./pdf/mail_nafisa_fai.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_pam_treece.recipient | uri_escape }}?subject={{ site.data.email_pam_treece.subject | uri_escape }}&body={{ site.data.email_pam_treece.body | uri_escape }}"
    class="email-btn">
 Email Pam Treece, Washington County Commissioner District 2
+</a> <a
+   href="./pdf/mail_pam_treece.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_jason_snider.recipient | uri_escape }}?subject={{ site.data.email_jason_snider.subject | uri_escape }}&body={{ site.data.email_jason_snider.body | uri_escape }}"
    class="email-btn">
 Email Jason Snider, Washington County Commissioner District 3
+</a> <a
+   href="./pdf/mail_jason_snider.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_jerry_willey.recipient | uri_escape }}?subject={{ site.data.email_jerry_willey.subject | uri_escape }}&body={{ site.data.email_jerry_willey.body | uri_escape }}"
    class="email-btn">
 Email Jerry Willey, Washington County Commissioner District 4
+</a> <a
+   href="./pdf/mail_jerry_willey.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 
@@ -151,18 +171,30 @@ Click a button below to send an email stating your concerns.  Click the button, 
    href="mailto:{{ site.data.email_nathan_sosa.recipient | uri_escape }}?subject={{ site.data.email_nathan_sosa.subject | uri_escape }}&body={{ site.data.email_nathan_sosa.body | uri_escape }}"
    class="email-btn">
 Email Representative Nathan Sosa
+</a> <a
+   href="./pdf/mail_nathan_sosa.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
-   href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
+   href="mailto:{{ site.data.email_janeen_sollman.recipient | uri_escape }}?subject={{ site.data.email_janeen_sollman.subject | uri_escape }}&body={{ site.data.email_janeen_sollman.body | uri_escape }}"
    class="email-btn">
 Email Senator Janeen Sollman
+</a> <a
+   href="./pdf/mail_janeen_sollman.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
-   href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
+   href="mailto:{{ site.data.email_lisa_reynolds.recipient | uri_escape }}?subject={{ site.data.email_lisa_reynolds.subject | uri_escape }}&body={{ site.data.email_lisa_reynolds.body | uri_escape }}"
    class="email-btn">
 Email Senator Lisa Reynolds
+</a> <a
+   href="./pdf/mail_lisa_reynolds.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 ---
