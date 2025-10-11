@@ -69,26 +69,42 @@ Click a button below to send an email stating your concerns.  Click the button, 
 
 <a
    href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
-   class="email-btn">
+   class="email-btn"> 
 Email Stephen Shane, Principal Planner
+</a> <a
+   href="./pdf/mail_stephen_shane.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_maitreyee_sinha.recipient | uri_escape }}?subject={{ site.data.email_maitreyee_sinha.subject | uri_escape }}&body={{ site.data.email_maitreyee_sinha.body | uri_escape }}"
    class="email-btn">
 Email Maitreyee Sinha, Senior Planner
+</a> <a
+   href="./pdf/mail_maitreyee_sinha.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_stephen_roberts.recipient | uri_escape }}?subject={{ site.data.email_stephen_roberts.subject | uri_escape }}&body={{ site.data.email_stephen_roberts.body | uri_escape }}"
    class="email-btn">
 Email Stephen Roberts, Land Use & Transportation Director
+</a> <a
+   href="./pdf/mail_stephen_roberts.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 <a
    href="mailto:{{ site.data.email_tanya_ange.recipient | uri_escape }}?subject={{ site.data.email_tanya_ange.subject | uri_escape }}&body={{ site.data.email_tanya_ange.body | uri_escape }}"
    class="email-btn">
 Email Tanya Ange – Washington County Administrator
+</a> <a
+   href="./pdf/mail_tanya_ange.pdf"
+   class="email-btn"> 
+PDF
 </a>
 
 
