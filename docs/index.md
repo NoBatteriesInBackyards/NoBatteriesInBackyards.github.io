@@ -14,7 +14,9 @@ layout: default
 
 <img class="img-left" src="./img/Hillsboro-Oregon-Battery-Storage.webp" alt="No Batteries in Backyards"/>
 
-# Jupiter Power wants to build a 10-acre Battery Energy Storage System in our back yards, and we need your help!
+# Jupiter Power wants to build a 10-acre Battery Energy Storage System in our back yards! We need your help!
+
+![Battery Energy Storage System](img/Hillsboro-Battery-Facility.webp)
 
 Jupiter Power and PGE are asking Washington County to approve construction of a large Battery Energy Storage System like the one pictured here in our NE Hillsboro neighborhood.  If approved, this development would bring light polution, constant noise, and increased risk of fire into our peaceful residential area.  If this is allowed, where will the next one be built?
 
@@ -43,9 +45,13 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighborhood
 - **Lack of community involvement** means residents are left in the dark about real dangers.  
 - **The residential location selected** for this BESS project amplifies the community safety concerns.
 
+<iframe width="750" height="422" src="https://www.youtube.com/embed/6k4_b3H8Uhc" title="Fire at California power plant nearly under control after lithium batteries ignited" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![Conceptual view of proposed BESS from West Union Road](img/Blackberry BESS View 2_3d.jpg)
 
 ![Conceptual view of proposed BESS as part of Bendemeer neighborhood](img/Blackberry BESS View 4_3d.jpg)
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/EuWMfG6RgK8" title="Jupiter Battery Storage In Hillsboro Threatens Local Residents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We refuse to accept unsafe energy storage in our neighborhoods. Clean energy must also be **safe energy**.
 
