@@ -18,7 +18,7 @@ layout: default
 
 Jupiter Power and PGE are asking Washington County to approve construction of a large Battery Energy Storage System like the one pictured here in our NE Hillsboro neighborhood.  If approved, this development would bring light polution, constant noise, and increased risk of fire into our peaceful residential area.  If this is allowed, where will the next one be built?
 
-## Please stand with us and tell Washington County this doesn't belong in anyone's back yard!
+## Please stand with us and tell Washington County this doesn't belong in anyone's back yard!  <u>Scroll down</u> to read about what a BESS is, why you should care, and what you can do to speak out for safe energy in Washington County!  Or <a href="qanda"><u>click here</u></a> to jump to our Q&A page.
 
 ---
 
@@ -57,7 +57,85 @@ We refuse to accept unsafe energy storage in our neighborhoods. Clean energy mus
 - Show up: Attend the public hearing on 10/30/2025  
 - Connect: [Join the movement](/contact)
 
+### Washington County Planners and Officials
+
+<a
+   href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
+   class="email-btn">
+Email Stephen Shane, Principal Planner
+</a>
+
+<a
+   href="mailto:{{ site.data.email_maitreyee_sinha.recipient | uri_escape }}?subject={{ site.data.email_maitreyee_sinha.subject | uri_escape }}&body={{ site.data.email_maitreyee_sinha.body | uri_escape }}"
+   class="email-btn">
+Email Maitreyee Sinha, Senior Planner
+</a>
+
+<a
+   href="mailto:{{ site.data.email_stephen_roberts.recipient | uri_escape }}?subject={{ site.data.email_stephen_roberts.subject | uri_escape }}&body={{ site.data.email_stephen_roberts.body | uri_escape }}"
+   class="email-btn">
+Email Stephen Roberts, Land Use & Transportation Director
+</a>
+
+<a
+   href="mailto:{{ site.data.email_tanya_ange.recipient | uri_escape }}?subject={{ site.data.email_tanya_ange.subject | uri_escape }}&body={{ site.data.email_tanya_ange.body | uri_escape }}"
+   class="email-btn">
+Email Tanya Ange – Washington County Administrator
+</a>
+
+### Washington County Commissioners
+
+<a
+   href="mailto:{{ site.data.email_kathryn_harrington.recipient | uri_escape }}?subject={{ site.data.email_kathryn_harrington.subject | uri_escape }}&body={{ site.data.email_kathryn_harrington.body | uri_escape }}"
+   class="email-btn">
+Email Kathryn Harrington, Washington County Commissioner At Large
+</a>
+
+<a
+   href="mailto:{{ site.data.email_nafisa_fai.recipient | uri_escape }}?subject={{ site.data.email_nafisa_fai.subject | uri_escape }}&body={{ site.data.email_nafisa_fai.body | uri_escape }}"
+   class="email-btn">
+Email Nafisa Fai, Washington County Commissioner District 1
+</a>
+
+<a
+   href="mailto:{{ site.data.email_pam_treece.recipient | uri_escape }}?subject={{ site.data.email_pam_treece.subject | uri_escape }}&body={{ site.data.email_pam_treece.body | uri_escape }}"
+   class="email-btn">
+Email Pam Treece, Washington County Commissioner District 2
+</a>
+
+<a
+   href="mailto:{{ site.data.email_jason_snider.recipient | uri_escape }}?subject={{ site.data.email_jason_snider.subject | uri_escape }}&body={{ site.data.email_jason_snider.body | uri_escape }}"
+   class="email-btn">
+Email Jason Snider, Washington County Commissioner District 3
+</a>
+
+<a
+   href="mailto:{{ site.data.email_jerry_willey.recipient | uri_escape }}?subject={{ site.data.email_jerry_willey.subject | uri_escape }}&body={{ site.data.email_jerry_willey.body | uri_escape }}"
+   class="email-btn">
+Email Jerry Willey, Washington County Commissioner District 4
+</a>
+
 Together, we can stop hazardous BESS sites from being located in our backyards — and build safer alternatives for a sustainable future.
+
+### State Representatives
+
+<a
+   href="mailto:{{ site.data.email_nathan_sosa.recipient | uri_escape }}?subject={{ site.data.email_nathan_sosa.subject | uri_escape }}&body={{ site.data.email_nathan_sosa.body | uri_escape }}"
+   class="email-btn">
+Email Representative Nathan Sosa
+</a>
+
+<a
+   href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
+   class="email-btn">
+Email Senator Janeen Sollman
+</a>
+
+<a
+   href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
+   class="email-btn">
+Email Senator Lisa Reynolds
+</a>
 
 ---
 
@@ -68,9 +146,8 @@ Together, we can stop hazardous BESS sites from being located in our backyards �
 ---
 
 ## Important Links
-- [Jupiter Energy BESS Battery Facility In Hillsboro Threatens Neighborhood Safety And Property Values - Hillsboro Herald](https://hillsboroherald.com/jupiter-energy-bess-battery-facility-in-hillsboro-threatens-neighborhood-safety-and-property-values-2/)
-- [Jupiter Battery Storage Proposal That Threatens Residents Moved To Public Hearing Under Public Pressure - Hillsboro Herald](https://hillsboroherald.com/jupiter-battery-storage-proposal-that-threatens-residents-moved-to-public-hearing-under-public-pressure/)
-- [Neighbors Confront County Over Mishandled Notice in Jupiter Battery Case - Hillsboro Herald](https://hillsboroherald.com/neighbors-confront-county-over-mishandled-notice-in-jupiter-battery-case/)
-- [Energy Giant Proposes 10-Acre Battery Facility in Rural Hillsboro Next To Homes - Hillsboro Herald](https://hillsboroherald.com/energy-giant-proposes-10-acre-battery-facility-in-rural-hillsboro-next-to-homes/)
+- [Local news stories about the proposed Hillsboro BESS project](news)
+- [Q&A - Answers to common questions](qanda)
+- [Link to Washington County casefile for the proposed BESS project](https://www.washingtoncountyor.gov/current-planning/frequently-discussed-development-applications#L2500161)
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Updates
-permalink: /updates/
+title: News
+permalink: /news/
 show_excerpts: true
 ---
