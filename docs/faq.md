@@ -26,7 +26,7 @@ Jupiter Power is a BlackRock owned company that is driving the proposal to build
 
 ### Who will decide whether the proposed BESS project will be approved?
 
-Jupiter Power's proposed BESS project is being considered for approval by Washington County's Land Use and Transporation Planning department as a Type III procedure.  A public hearing has been scheduled for October 30, 2025, after which a decision will be made by an independent hearings officer.  The hearings officer's decision is appealable to the Oregon Land Use Board.
+Jupiter Power's proposed BESS project is being considered for approval by Washington County's Land Use and Transporation Planning department as a Type III procedure.  A public hearing has been scheduled for October 30, 2025, after which a decision will be made by an independent hearings officer.  The hearings officer's decision is appealable to the Oregon Land Use Board of Appeals.
 
 ### What can I do if I want to oppose construction of the proposed BESS?
 

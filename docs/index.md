@@ -60,7 +60,7 @@ We refuse to accept unsafe energy storage in our neighborhoods. Clean energy mus
 
 ### Washington County Planners and Officials
 
-Click a button below to send an email message to let our local land use and development planners know that we are concerned about the negative impacts of building a BESS facility in our residential communities.  Click the button, read the message to make sure you agree with what it says, then sign your name at the bottom and click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
+Click a button below to send an email stating your concerns.  Click the button, read the message, sign your name, click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
 
 <a
    href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
@@ -86,9 +86,10 @@ Email Stephen Roberts, Land Use & Transportation Director
 Email Tanya Ange – Washington County Administrator
 </a>
 
+
 ### Washington County Commissioners
 
-Click a button below to send an email message to let our local leaders and elected officials know that we have serious safety and livability concerns related to building a BESS facility in our residential communities, and that the voice of the people needs to be heard before approving the project.  Click the button, read the message to make sure you agree with what it says, then sign your name at the bottom and click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
+Click a button below to send an email stating your concerns.  Click the button, read the message, sign your name, click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
 
 <a
    href="mailto:{{ site.data.email_kathryn_harrington.recipient | uri_escape }}?subject={{ site.data.email_kathryn_harrington.subject | uri_escape }}&body={{ site.data.email_kathryn_harrington.body | uri_escape }}"
@@ -120,7 +121,10 @@ Email Jason Snider, Washington County Commissioner District 3
 Email Jerry Willey, Washington County Commissioner District 4
 </a>
 
+
 ### State Representatives
+
+Click a button below to send an email stating your concerns.  Click the button, read the message, sign your name, click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
 
 <a
    href="mailto:{{ site.data.email_nathan_sosa.recipient | uri_escape }}?subject={{ site.data.email_nathan_sosa.subject | uri_escape }}&body={{ site.data.email_nathan_sosa.body | uri_escape }}"
