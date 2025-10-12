@@ -65,137 +65,137 @@ We refuse to accept unsafe energy storage in our neighborhoods. Clean energy mus
 
 ### Washington County Planners and Officials
 
-Click a button below to send an email stating your concerns.  Click the button, read the message, sign your name, click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
+Click/tap the <u>Email</u> button below to open a pre-written message in your email app, read the message, sign your name, and send.  The email will not be sent until you click/tap the Send button.  Or click/tap the <u>PDF</u> button to download a PDF letter, print, sign your name, and send through postal mail.  Please note that your identity and activities on this website are <u>not</u> tracked or logged.
 
 <a
    href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
    class="email-btn"> 
-Email Stephen Shane, Principal Planner
+Email
 </a> <a
    href="./pdf/mail_stephen_shane.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Stephen Shane, Principal Planner**
 
 <a
    href="mailto:{{ site.data.email_maitreyee_sinha.recipient | uri_escape }}?subject={{ site.data.email_maitreyee_sinha.subject | uri_escape }}&body={{ site.data.email_maitreyee_sinha.body | uri_escape }}"
    class="email-btn">
-Email Maitreyee Sinha, Senior Planner
+Email
 </a> <a
    href="./pdf/mail_maitreyee_sinha.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Maitreyee Sinha, Senior Planner**
 
 <a
    href="mailto:{{ site.data.email_stephen_roberts.recipient | uri_escape }}?subject={{ site.data.email_stephen_roberts.subject | uri_escape }}&body={{ site.data.email_stephen_roberts.body | uri_escape }}"
    class="email-btn">
-Email Stephen Roberts, Land Use & Transportation Director
+Email
 </a> <a
    href="./pdf/mail_stephen_roberts.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Stephen Roberts, Land Use & Transportation Director**
 
 <a
    href="mailto:{{ site.data.email_tanya_ange.recipient | uri_escape }}?subject={{ site.data.email_tanya_ange.subject | uri_escape }}&body={{ site.data.email_tanya_ange.body | uri_escape }}"
    class="email-btn">
-Email Tanya Ange – Washington County Administrator
+Email
 </a> <a
    href="./pdf/mail_tanya_ange.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Tanya Ange, Washington County Administrator**
 
 
 ### Washington County Commissioners
 
-Click a button below to send an email stating your concerns.  Click the button, read the message, sign your name, click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
+Click/tap the <u>Email</u> button below to open a pre-written message in your email app, read the message, sign your name, and send.  The email will not be sent until you click/tap the Send button.  Or click/tap the <u>PDF</u> button to download a PDF letter, print, sign your name, and send through postal mail.  Please note that your identity and activities on this website are <u>not</u> tracked or logged.
 
 <a
    href="mailto:{{ site.data.email_kathryn_harrington.recipient | uri_escape }}?subject={{ site.data.email_kathryn_harrington.subject | uri_escape }}&body={{ site.data.email_kathryn_harrington.body | uri_escape }}"
    class="email-btn">
-Email Kathryn Harrington, Washington County Commissioner At Large
+Email
 </a> <a
    href="./pdf/mail_kathryn_harrington.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> --  **Kathryn Harrington, Washington County Commissioner At Large**
 
 <a
    href="mailto:{{ site.data.email_nafisa_fai.recipient | uri_escape }}?subject={{ site.data.email_nafisa_fai.subject | uri_escape }}&body={{ site.data.email_nafisa_fai.body | uri_escape }}"
    class="email-btn">
-Email Nafisa Fai, Washington County Commissioner District 1
+Email
 </a> <a
    href="./pdf/mail_nafisa_fai.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Nafisa Fai, Washington County Commissioner District 1**
 
 <a
    href="mailto:{{ site.data.email_pam_treece.recipient | uri_escape }}?subject={{ site.data.email_pam_treece.subject | uri_escape }}&body={{ site.data.email_pam_treece.body | uri_escape }}"
    class="email-btn">
-Email Pam Treece, Washington County Commissioner District 2
+Email
 </a> <a
    href="./pdf/mail_pam_treece.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Pam Treece, Washington County Commissioner District 2**
 
 <a
    href="mailto:{{ site.data.email_jason_snider.recipient | uri_escape }}?subject={{ site.data.email_jason_snider.subject | uri_escape }}&body={{ site.data.email_jason_snider.body | uri_escape }}"
    class="email-btn">
-Email Jason Snider, Washington County Commissioner District 3
+Email
 </a> <a
    href="./pdf/mail_jason_snider.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Jason Snider, Washington County Commissioner District 3**
 
 <a
    href="mailto:{{ site.data.email_jerry_willey.recipient | uri_escape }}?subject={{ site.data.email_jerry_willey.subject | uri_escape }}&body={{ site.data.email_jerry_willey.body | uri_escape }}"
    class="email-btn">
-Email Jerry Willey, Washington County Commissioner District 4
+Email
 </a> <a
    href="./pdf/mail_jerry_willey.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Jerry Willey, Washington County Commissioner District 4**
 
 
 ### State Representatives
 
-Click a button below to send an email stating your concerns.  Click the button, read the message, sign your name, click Send.  Please note that your activities on this website are not tracked or logged, your identity is not stored, and emails are not sent until you explicity click the Send button.
+Click/tap the <u>Email</u> button below to open a pre-written message in your email app, read the message, sign your name, and send.  The email will not be sent until you click/tap the Send button.  Or click/tap the <u>PDF</u> button to download a PDF letter, print, sign your name, and send through postal mail.  Please note that your identity and activities on this website are <u>not</u> tracked or logged.
 
 <a
    href="mailto:{{ site.data.email_nathan_sosa.recipient | uri_escape }}?subject={{ site.data.email_nathan_sosa.subject | uri_escape }}&body={{ site.data.email_nathan_sosa.body | uri_escape }}"
    class="email-btn">
-Email Representative Nathan Sosa
+Email
 </a> <a
    href="./pdf/mail_nathan_sosa.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Representative Nathan Sosa**
 
 <a
    href="mailto:{{ site.data.email_janeen_sollman.recipient | uri_escape }}?subject={{ site.data.email_janeen_sollman.subject | uri_escape }}&body={{ site.data.email_janeen_sollman.body | uri_escape }}"
    class="email-btn">
-Email Senator Janeen Sollman
+Email
 </a> <a
    href="./pdf/mail_janeen_sollman.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Senator Janeen Sollman**
 
 <a
    href="mailto:{{ site.data.email_lisa_reynolds.recipient | uri_escape }}?subject={{ site.data.email_lisa_reynolds.subject | uri_escape }}&body={{ site.data.email_lisa_reynolds.body | uri_escape }}"
    class="email-btn">
-Email Senator Lisa Reynolds
+Email
 </a> <a
    href="./pdf/mail_lisa_reynolds.pdf"
    class="email-btn"> 
 PDF
-</a>
+</a> -- **Senator Lisa Reynolds**
 
 ---
 

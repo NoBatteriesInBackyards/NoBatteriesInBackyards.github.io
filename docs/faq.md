@@ -30,5 +30,5 @@ Jupiter Power's proposed BESS project is being considered for approval by Washin
 
 ### What can I do if I want to oppose construction of the proposed BESS?
 
-[Click here](../index#what-can-i-do-about-it) to learn how to join the cause!
+[<u>Click here</u>](../index#what-can-i-do-about-it) to learn how to join the cause!
 
