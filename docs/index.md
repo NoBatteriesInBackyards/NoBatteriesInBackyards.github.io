@@ -17,9 +17,9 @@ title: Home
 
 ![Battery Energy Storage System](img/Hillsboro-Battery-Facility.webp)
 
-Jupiter Power and PGE are asking Washington County to approve construction of a large Battery Energy Storage System like the one pictured here in our NE Hillsboro neighborhood.  If approved, this development would bring light polution, constant noise, and increased risk of fire into our peaceful residential area.  If this is allowed, where will the next one be built?
+Jupiter Power and PGE are asking Washington County to approve construction of a large Battery Energy Storage System like the one pictured here in our NE Hillsboro neighborhood.  The output of the proposed BESS (100 mega-Watts) is approximately equivalent to 1000 Tesla car batteries, but they will be assembled on property that is currently farm land.  If approved, this development will bring light polution, constant noise, and increased risk of fire into our peaceful residential area.  If this is allowed, where will the next one be built?
 
-## Please stand with us and tell Washington County this doesn't belong in anyone's back yard!  <u>Scroll down</u> to read about what a BESS is, why you should care, and what you can do to speak out for safe energy in Washington County!  Or <a href="qanda"><u>click here</u></a> to jump to our Q&A page.
+## Please stand with us and tell Washington County this doesn't belong in anyone's back yard!  <u>Scroll down</u> to read about what a BESS is, why you should care, and what you can do to speak out for safe energy in Washington County!  Or <a href="faq"><u>click here</u></a> to jump to our FAQ page.
 
 ---
 
@@ -42,7 +42,7 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighborhood
 - **Explosion and fire risks** from lithium-ion batteries threaten homes and lives.  
 - **Toxic chemicals** released when lithium-ion batteries fail can poison air, water, and soil.  
 - **Lack of community involvement** means residents are left in the dark about real dangers.  
-- **The residential location selected** for this BESS project amplifies the community safety concerns.
+- **The residential location selected** for this BESS project intensifies the community safety concerns.
 
 <iframe style="width: 100%;" height="422" src="https://www.youtube.com/embed/6k4_b3H8Uhc" title="Fire at California power plant nearly under control after lithium batteries ignited" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,14 +58,16 @@ We refuse to accept unsafe energy storage in our neighborhoods. Clean energy mus
 
 ## What can I do about it?
 
-- <b>Stay informed:</b> [Read our news updates](/news)
-- <b>Show up:</b> Attend the public hearing on 10/30/2025  
-- <b>Connect:</b> [Email us to learn how to join the movement](/contact)
+- <b>Stay informed:</b> [<u>Read our news updates here</u>](/news)
 - <b>Raise concerns:</b> Write to local leaders and elected officials to register complaints by clicking the buttons below
+- <b>Show up:</b> Attend the public hearing on 10/30/2025 at 9:00am (Note community members who did not contact the County and/or submit public comments during the comment period may not be allowed to attend the hearing.  For more information, contact the Washington County Development Review/Current Planning office at 503-846-8761.)
+- <b>Connect:</b> [<u>Email us to learn how to join the movement</u>](/contact)
 
-### Washington County Planners and Officials
+### How to voice your concerns to local leaders and elected officials:
 
 Click/tap the <u>Email</u> button below to open a pre-written message in your email app, read the message, sign your name, and send.  The email will not be sent until you click/tap the Send button.  Or click/tap the <u>PDF</u> button to download a PDF letter, print, sign your name, and send through postal mail.  Please note that your identity and activities on this website are <u>not</u> tracked or logged.
+
+### Washington County Planners and Officials
 
 <a
    href="mailto:{{ site.data.email_stephen_shane.recipient | uri_escape }}?subject={{ site.data.email_stephen_shane.subject | uri_escape }}&body={{ site.data.email_stephen_shane.body | uri_escape }}"
@@ -109,8 +111,6 @@ PDF
 
 
 ### Washington County Commissioners
-
-Click/tap the <u>Email</u> button below to open a pre-written message in your email app, read the message, sign your name, and send.  The email will not be sent until you click/tap the Send button.  Or click/tap the <u>PDF</u> button to download a PDF letter, print, sign your name, and send through postal mail.  Please note that your identity and activities on this website are <u>not</u> tracked or logged.
 
 <a
    href="mailto:{{ site.data.email_kathryn_harrington.recipient | uri_escape }}?subject={{ site.data.email_kathryn_harrington.subject | uri_escape }}&body={{ site.data.email_kathryn_harrington.body | uri_escape }}"
@@ -164,8 +164,6 @@ PDF
 
 
 ### State Representatives
-
-Click/tap the <u>Email</u> button below to open a pre-written message in your email app, read the message, sign your name, and send.  The email will not be sent until you click/tap the Send button.  Or click/tap the <u>PDF</u> button to download a PDF letter, print, sign your name, and send through postal mail.  Please note that your identity and activities on this website are <u>not</u> tracked or logged.
 
 <a
    href="mailto:{{ site.data.email_nathan_sosa.recipient | uri_escape }}?subject={{ site.data.email_nathan_sosa.subject | uri_escape }}&body={{ site.data.email_nathan_sosa.body | uri_escape }}"

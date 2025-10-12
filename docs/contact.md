@@ -19,3 +19,5 @@ Keep up with new developments by joining the [Stop the West Union Battery Storag
 
 Together we can **raise our voices, protect our neighborhoods, and demand safe energy 
 solutions.** We all must come together to protect our homes, families, and community. 
+
+---
