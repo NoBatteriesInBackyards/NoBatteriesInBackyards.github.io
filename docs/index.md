@@ -50,6 +50,8 @@ We are **No Batteries in Backyards**, a grassroots movement uniting neighborhood
 
 ![Conceptual view of proposed BESS as part of Bendemeer neighborhood](img/Blackberry BESS View 4_3d.jpg)
 
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/xuTaZFQA18E" title="Disaster at Moss Landing: The Risk of Battery Storage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe style="width: 100%;" height="422" src="https://www.youtube.com/embed/EuWMfG6RgK8" title="Jupiter Battery Storage In Hillsboro Threatens Local Residents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We refuse to accept unsafe energy storage in our neighborhoods. Clean energy must also be **safe energy**.
@@ -206,6 +208,8 @@ PDF
 ## Important Links
 - [Link to Washington County casefile for the proposed BESS project](https://www.washingtoncountyor.gov/current-planning/frequently-discussed-development-applications#L2500161)
 - [Local news stories about the proposed Hillsboro BESS project](news)
+- [5 Myths About BESS: Battery Energy Storage Systems](https://www.bakerrisk.com/news/myths-battery-energy-storage-systems/)
+- [Aligned to Deploy ‘First-of-its-Kind’ Data Center Battery Storage Project](https://www.datacenterknowledge.com/energy-power-supply/aligned-to-deploy-first-of-its-kind-data-center-battery-storage-project)
 - [FAQ - Answers to common questions](faq)
 
 ---
